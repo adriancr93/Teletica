@@ -70,28 +70,5 @@ a, p {
 }
 
 .espacio2 {
-	padding-top: 20px
-
-
-/*@media (max-width: 500px) {
-
-	.card-deck .card {
-		margin-left: 0px;
-	}
-
-	.jogo {
-		padding-top: 20px;
-	}
+	padding-top: 20px;
 }
-
-/*@media (max-width: 575px) {
-
-.margin-res {
-	margin: 30px;
-}
-
-.margin-res2 {
-	margin: 0 130px;
-}
-
-}*/
