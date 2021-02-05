@@ -1,0 +1,97 @@
+body {
+	font-family:'Rubik', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+p {
+	color: 124C9B;
+}
+
+a, p {
+	font-weight: 500;
+	color: #28a745;
+}
+
+.teletica {
+	margin: 50px;
+}
+
+.espacio {
+	padding: 50px 0;
+}
+
+.texto {
+	padding-top: 30px
+}
+
+.centrar {
+	padding: 0px 19px
+}
+
+.fondo {
+	background-color: #28a745;
+}
+
+.fondo a{
+	font-weight: 400;
+}
+
+.mantenimiento {
+	padding: 50px 25px 25px;
+	color: white;
+}
+
+.botones {
+	padding-bottom: 50px;
+}
+
+.commonsbox {
+	width: 100%;
+	height: 62px;
+}
+
+.btn-outline-success {
+	color: #28a745;
+	border-color: #28a745;
+	background-color: white;
+}
+
+.btn-outline-success:hover {
+    color: white;
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+.botones {
+	margin: 0px 300px;
+}
+
+.jogo {
+	padding-top: 20px;
+}
+
+.espacio2 {
+	padding-top: 20px
+
+
+/*@media (max-width: 500px) {
+
+	.card-deck .card {
+		margin-left: 0px;
+	}
+
+	.jogo {
+		padding-top: 20px;
+	}
+}
+
+/*@media (max-width: 575px) {
+
+.margin-res {
+	margin: 30px;
+}
+
+.margin-res2 {
+	margin: 0 130px;
+}
+
+}*/
